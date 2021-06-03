@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amjad Elhassan</h1>
 <h3 align="center">A Mad Scientist FullStack React and Node.Js Developer</h3>
 
-- 🔭 I’m currently working on [PianoTutor](https://github.com/AmjadElHassan/PianoTutor)
+- 🔭 I’m currently working on [Loqlii](https://github.com/AmjadElHassan/gamergab)
 
 - 🌱 I’m currently learning **Redux and GraphQL**
 
@@ -9,9 +9,7 @@
 
 - 🤝 I Currently work at [Puffin Design Lab](puffindesignlab.com)
 
-- 👨‍💻 All of my projects are available at [github.com/amjadelhassan](github.com/amjadelhassan)
-
-- 💬 Ask me about **React, Vue, Javascript, Node.Js, express.Js**
+- 💬 Ask me about **Javascript, Node.Js, express.Js, React**
 
 - 📫 How to reach me **amjade.1337@gmail.com**
 
