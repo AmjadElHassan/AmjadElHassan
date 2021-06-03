@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Loqlii](https://github.com/AmjadElHassan/gamergab)
 
+-📚  Catch my latest articles, tutorials, and documentation at [CodeMonkeyCove](codemonkeycove.com)
+
 - 🌱 I’m currently learning **Redux and GraphQL**
 
 - 👯 I’m looking to collaborate on [ChemWiz](https://github.com/AmjadElHassan/ChemWiz)
