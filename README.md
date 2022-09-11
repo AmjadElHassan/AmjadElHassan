@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amjad Elhassan</h1>
 <h3 align="center">A Mad Scientist FullStack React and Node.Js Developer</h3>
 
-- 🔭 I’m currently working on [Loqlii](https://github.com/AmjadElHassan/gamergab)
+- 🔭 I’m currently working on ClassDojo's Android Application
 
 - 📚 Catch my latest articles, tutorials, and documentation at [CodeMonkeyCove](https://codemonkeycove.com)
 
 - 🌱 I’m currently learning **Redux and GraphQL**
 
-- 👯 I’m looking to collaborate on [ChemWiz](https://github.com/AmjadElHassan/ChemWiz)
-
-- 🤝 I Currently work at [Puffin Design Lab](puffindesignlab.com)
+- 🤝 I Currently work at [ClassDojo](classdojo.com)
 
 - 💬 Ask me about **Javascript, Node.Js, express.Js, React**
 
